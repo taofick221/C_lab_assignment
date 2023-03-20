@@ -19,6 +19,7 @@ int main() {
     int choice = 1;
 
     NODE *head = NULL;
+//      NODE *head = NULL;
 
     while (choice) {
         printf("Enter a character to add in linked list: ");
