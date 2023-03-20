@@ -10,6 +10,7 @@ int main() {
          int inpt;
 
          printf("Choice one option from below:\n");
+//         printf("Choice one option from below:\n");
          printf("\t1. Factorial\n");
          printf("\t2. Prime or not\n");
          printf("\t3. Odd or even\n");
