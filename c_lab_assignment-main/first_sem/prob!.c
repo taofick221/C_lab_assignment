@@ -22,7 +22,6 @@ int main() {
     
 
     printf("Enter numbers here(The number will be 1, 2 and 3): ");
-//     printf("Enter numbers here(): ";
     
     //taking array's input
     for(i = 0; i < n; i++) {
