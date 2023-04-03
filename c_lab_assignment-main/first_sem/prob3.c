@@ -31,6 +31,7 @@ int main() {
     }
     else if(status && result_sex && age > 25) {
         printf("This driver can insure\n");
+//          printf("This driver can insure\n");
     }
     else {
         printf("This driver can not be insure\n");
