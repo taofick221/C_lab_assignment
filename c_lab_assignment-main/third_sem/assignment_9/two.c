@@ -119,5 +119,5 @@ void print_post(tree_node *root) {
     print_post(temp->left);
     print_post(temp->right);
     printf("%d  ", temp->value);
-//   printf("%d  ", temp->value);
+
 }
