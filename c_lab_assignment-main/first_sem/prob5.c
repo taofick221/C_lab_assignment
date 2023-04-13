@@ -39,6 +39,7 @@ int main() {
     }
 
     printf("\n");
+//      printf("\n");
 
     printf("Summition of all elements of your array is: %d\n\n\n", sum);
 
