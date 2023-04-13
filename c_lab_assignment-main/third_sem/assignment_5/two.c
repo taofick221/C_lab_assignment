@@ -26,7 +26,7 @@ int main() {
     printf("\n\nAfter Shorting: ");
     for(i = 0; i < 10; i++) {
         printf("%d  ", arr[i]);
-//           printf("%d  ", arr[]);
+
     }
 
     return 0;
