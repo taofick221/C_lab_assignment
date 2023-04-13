@@ -20,7 +20,7 @@ Q_NODE *add_node_last(Q_NODE *head , int data);
 Q_NODE *delete_first(Q_NODE *head);
 void print(Q_NODE *head);
 void option();
-// void option();
+
 
 
 int main() {
